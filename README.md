@@ -8,21 +8,23 @@ Hello!</br>I'm Chico
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-lima-1b387a164/)
 </div>
 
-Currently an undergraduate student in Oceanography at the Federal University of Pernambuco (UFPE), with a focus on metoceanographic data analysis. Intern at the Laboratory of Estuarine and Coastal Physical Oceanography (LOFEC), part of the Department of Oceanography, contributing to research and development projects in the field. Held a scholarship from the Human Resources Program (PRH 38.1) of the Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP) from 2022 to 2024. Actively engaged in extension initiatives aimed at applying and disseminating oceanographic knowledge, including participation in Mar Aberto (Oceanography Junior Enterprise) and EducaOcean, both dedicated to promoting technical-scientific and social development in oceanography.
-
-In addition to his academic background, he holds a technical degree in Game Development (2019) and has professional experience as a programming and robotics instructor. Delivered both theoretical and practical classes covering programming languages (C# and Lua) and microcontroller applications (Arduino). He is also completing a technical certification in Portuguese Sign Language (Libras) Translation and Interpretation, offered by the State Technical School Professor Antônio Carlos Gomes da Costa.
-
 - 🔭 I’m currently working on [Ctrl+Play](https://https://ctrlplay.com.br/)
 - 🌱 I’m currently learning `Front-end` and `Python`
 - 👯 I’m looking to collaborate on `Games`
 - 💬 Ask me about `Unity` and `Python`
 - 😄 Pronouns: Him/His
 
+Currently an undergraduate student in Oceanography at the Federal University of Pernambuco (UFPE), with a focus on metoceanographic data analysis. Intern at the Laboratory of Estuarine and Coastal Physical Oceanography (LOFEC), part of the Department of Oceanography, contributing to research and development projects in the field. Held a scholarship from the Human Resources Program (PRH 38.1) of the Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP) from 2022 to 2024. Actively engaged in extension initiatives aimed at applying and disseminating oceanographic knowledge, including participation in Mar Aberto (Oceanography Junior Enterprise) and EducaOcean, both dedicated to promoting technical-scientific and social development in oceanography.
+
+In addition to his academic background, he holds a technical degree in Game Development (2019) and has professional experience as a programming and robotics instructor. Delivered both theoretical and practical classes covering programming languages (C# and Lua) and microcontroller applications (Arduino). He is also completing a technical certification in Portuguese Sign Language (Libras) Translation and Interpretation, offered by the State Technical School Professor Antônio Carlos Gomes da Costa.
+
 ### Top Languages and Tools:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
