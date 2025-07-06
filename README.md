@@ -42,3 +42,4 @@ In addition to his academic background, he holds a technical degree in Game Deve
 ### Developer of:
 
 [![Caelesti](https://github-readme-stats.vercel.app/api/pin/?username=MateusFran&repo=Caelesti&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/MateusFran/Caelesti)
+[![Rosas Brancas](https://github-readme-stats.vercel.app/api/pin/?username=MateusFran&repo=RosasBrancas&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/MateusFran/RosasBrancas)
